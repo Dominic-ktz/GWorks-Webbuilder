@@ -27,8 +27,16 @@
 <script src="assets/js/preload.js"></script>
 </head>
 <body>
-<div class="preloader-wrapper" id="preloader-wrapper">
+    <div class="preloader-wrapper" id="preloader-wrapper">
     <div class="preloader">
-        loading
+    <div class="spinner-grow text-secondary" role="status">
+  <span class="visually-hidden">Loading...</span>
+</div>
+<div class="spinner-grow text-secondary" role="status">
+  <span class="visually-hidden">Loading...</span>
+</div>
+<div class="spinner-grow text-secondary" role="status">
+  <span class="visually-hidden">Loading...</span>
+</div>
     </div>
 </div>
