@@ -19,7 +19,16 @@
   href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.0.0/mdb.min.css"
   rel="stylesheet"
 />
+
+<link rel="stylesheet" href="assets/css/preload.css">
+
+
 <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+<script src="assets/js/preload.js"></script>
 </head>
 <body>
-    
+<div class="preloader-wrapper">
+    <div class="preloader">
+        loading
+    </div>
+</div>
