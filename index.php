@@ -60,9 +60,9 @@ include "head.php";
     <div class="mask" style="background-color: rgba(0, 0, 0, 0.7)">
       <div class="d-flex justify-content-center align-items-center h-100">
         <div class="text-white">
-          <h1 class="mb-3">Learn Bootstrap 5 with MDB</h1>
-          <h5 class="mb-4">Best & free guide of responsive web design</h5>
-          <a
+          <h1 class="mb-3">Maintenance</h1>
+          <h5 class="mb-4">Please come back later</h5>
+          <!--<a
             class="btn btn-outline-light btn-lg m-2"
             href="https://www.youtube.com/watch?v=c9B4TPnak1A"
             role="button"
@@ -76,7 +76,7 @@ include "head.php";
             target="_blank"
             role="button"
             >Download MDB UI KIT</a
-          >
+          >-->
         </div>
       </div>
     </div>
