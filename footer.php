@@ -5,7 +5,7 @@
 ></script>
 <script type="text/javascript">
 $( document ).ready(function() {
-    docuent.getElementById("test").style.display = "none";
+    $("#test").hide();
 });
 </script>
 </html>
