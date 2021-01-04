@@ -2,6 +2,7 @@
 include "head.php";
 ?>
 <header>
+
   <!-- Intro settings -->
   <style>
     /* Default height for small devices */
@@ -37,7 +38,7 @@ include "head.php";
             <a class="nav-link" aria-current="page" href="#">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Features</a>
+            <a class="nav-link text-" href="#">Features</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Pricing</a>
@@ -62,6 +63,7 @@ include "head.php";
         <div class="text-white">
           <h1 class="mb-3">Maintenance</h1>
           <h5 class="mb-4">Please come back later</h5>
+          <div id="test">test</div>
           <!--<a
             class="btn btn-outline-light btn-lg m-2"
             href="https://www.youtube.com/watch?v=c9B4TPnak1A"
@@ -83,6 +85,7 @@ include "head.php";
   </div>
   <!-- Background image -->
 </header>
+
 <?php
 include "footer.php";
 ?>

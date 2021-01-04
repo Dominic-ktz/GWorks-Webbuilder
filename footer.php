@@ -3,9 +3,9 @@
   type="text/javascript"
   src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.0.0/mdb.min.js"
 ></script>
-<script>
+<script type="text/javascript">
 $( document ).ready(function() {
-    console.log( "ready!" );
+    docuent.getElementById("test").style.display = "none";
 });
 </script>
 </html>
