@@ -1,8 +1,17 @@
+
+<div class="preful" id="preful">
 <div class="load">
   <hr/><hr/><hr/><hr/>
 </div>
 <style>
-.load{position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);
+
+.preful{
+    position: fixed;
+    width: 100vw;
+    Height: 100vh;
+}
+.load{
+    position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);
   /*change these sizes to fit into your project*/
   width:100px;
   height:100px;
@@ -22,3 +31,4 @@
 }
 
 </style>
+</div>
