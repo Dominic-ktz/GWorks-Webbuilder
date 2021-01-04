@@ -27,7 +27,7 @@
 <script src="assets/js/preload.js"></script>
 </head>
 <body>
-<div class="preloader-wrapper">
+<div class="preloader-wrapper" id="preloader-wrapper">
     <div class="preloader">
         loading
     </div>

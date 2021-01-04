@@ -5,7 +5,7 @@
 ></script>
 <script type="text/javascript">
 $( document ).ready(function() {
-    $("#preful").fadeOut(900);
+    $("#preloader-wrapper").fadeOut(900);
 });
 </script>
 </html>
