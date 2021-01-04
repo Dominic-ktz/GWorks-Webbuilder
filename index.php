@@ -23,7 +23,7 @@ include "vendor/preloader.php";
   <nav class="navbar navbar-expand-lg navbar-light bg-white">
     <div class="container-fluid">
     <a class="navbar-brand" href="#">
-      <img src="assets/icons/favicon-96x96.png" alt="" width="30" height="24" class="d-inline-block align-top">
+      <img src="assets/icons/logo.png" alt="" width="50" height="50" class="d-inline-block align-top">
       GWorks
     </a>
       <button
