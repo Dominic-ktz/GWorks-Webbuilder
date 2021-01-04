@@ -22,6 +22,10 @@ include "vendor/preloader.php";
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-light bg-white">
     <div class="container-fluid">
+    <a class="navbar-brand" href="#">
+      <img src="assets/icons/favicon-96x96.png" alt="" width="30" height="24" class="d-inline-block align-top">
+      GWorks
+    </a>
       <button
         class="navbar-toggler"
         type="button"
