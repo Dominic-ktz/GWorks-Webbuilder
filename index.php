@@ -55,7 +55,7 @@ include "head.php";
   <div
     id="intro-example"
     class="p-5 text-center bg-image"
-    style="background-image: url('https://mdbootstrap.com/img/new/slides/041.jpg')"
+    style="background-image: url('https://g-works.eu/assets/forest.jpg')"
   >
     <div class="mask" style="background-color: rgba(0, 0, 0, 0.7)">
       <div class="d-flex justify-content-center align-items-center h-100">
