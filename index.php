@@ -57,7 +57,7 @@ include "vendor/preloader.php";
   <div
     id="intro-example"
     class="p-5 text-center bg-image"
-    style="background-image: url('https://g-works.eu/assets/code.jpg')"
+    style="background-image: url('https://g-works.eu/assets/img/code.jpg')"
   >
     <div class="mask" style="background-color: rgba(0, 0, 0, 0.7)">
       <div class="d-flex justify-content-center align-items-center h-100">
