@@ -5,7 +5,7 @@
 ></script>
 <script type="text/javascript">
 $( document ).ready(function() {
-    $("#test").hide();
+    $("#test").fadeOut();
 });
 </script>
 </html>
