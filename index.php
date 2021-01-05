@@ -23,7 +23,7 @@ include "vendor/preloader.php";
   <nav class="navbar navbar-expand-lg navbar-light bg-white">
     <div class="container-fluid">
     <a class="navbar-brand" href="#">
-      <img src="assets/icons/logo.png" alt="" width="35" height="35" style="border-radius: 50%;" class="shadow d-inline-block align-top">
+      <img src="assets/icons/logo.png" alt="" width="35" height="35" style="border-radius: 50%;" class="shadow-sm d-inline-block align-top">
       GWorks
     </a>
       <button
@@ -90,6 +90,21 @@ include "vendor/preloader.php";
   </div>
   <!-- Background image -->
 </header>
+
+<div class="container">
+  <div class="row justify-content-md-center">
+    <div class="col col-lg-2">
+      1 of 3
+    </div>
+    <div class="col-md-auto">
+      Variable width content
+    </div>
+    <div class="col col-lg-2">
+      3 of 3
+    </div>
+  </div>
+
+</div>
 
 <?php
 include "footer.php";
