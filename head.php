@@ -3,7 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- COMMON TAGS -->
+    <meta charset="utf-8">
     <title>GWorks</title>
+    <!-- Search Engine -->
+    <meta name="description" content="Gworks is a group of developer who make open source Web-apps">
+    <meta name="image" content="https://g-works.eu/assets/img/gwks_social.png">
+    <!-- Schema.org for Google -->
+    <meta itemprop="name" content="GWorks">
+    <meta itemprop="description" content="Gworks is a group of developer who make open source Web-apps">    
+    <meta itemprop="image" content="https://g-works.eu/assets/img/gwks_social.png">
+    <!-- Open Graph general (Facebook, Pinterest & LinkedIn) -->
+    <meta name="og:title" content="GWorks">
+    <meta name="og:description" content="Gworks is a group of developer who make open source Web-apps">
+    <meta name="og:image" content="https://g-works.eu/assets/img/gwks_social.png">
+    <meta name="og:url" content="">
+    <meta name="og:site_name" content="GWorks">
+    <meta name="og:locale" content="en_US">
+    <meta name="og:type" content="website">
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="GWorks">
+    <meta name="twitter:description" content="Gworks is a group of developer who make open source Web-apps">
+    <meta name="twitter:image:src" content="https://g-works.eu/assets/img/gwks_social.png">
     <!--Website icons -->
     <link rel="apple-touch-icon" sizes="57x57" href="assets/icons/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="assets/icons/apple-icon-60x60.png">
