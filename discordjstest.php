@@ -1,3 +1,6 @@
+<?php 
+header("Access-Control-Allow-Origin: no-cors");
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
