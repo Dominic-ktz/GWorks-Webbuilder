@@ -1,6 +1,10 @@
 <?php
+session_start();
 include "head.php";
 include "vendor/preloader.php";
+if (isset($_SESSION['user'])) {
+  
+
 ?>
 <header>
 
@@ -68,7 +72,6 @@ include "vendor/preloader.php";
         <div class="text-white">
           <h1 class="mb-3">Maintenance</h1>
           <h5 class="mb-4">Please come back later</h5>
-          <div id="test">test</div>
           <!--<a
             class="btn btn-outline-light btn-lg m-2"
             href="https://www.youtube.com/watch?v=c9B4TPnak1A"
@@ -107,5 +110,8 @@ include "vendor/preloader.php";
 </div>
 
 <?php
+}else {
+  echo "Maintenance mode enabled"
+}
 include "footer.php";
 ?>
