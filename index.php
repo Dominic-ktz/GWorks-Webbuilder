@@ -111,7 +111,7 @@ if (isset($_SESSION['user'])) {
 
 <?php
 }else {
-  echo "Maintenance mode enabled"
+  echo "Maintenance mode enabled";
 }
 include "footer.php";
 ?>
