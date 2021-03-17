@@ -21,6 +21,6 @@ header("Access-Control-Allow-Origin: no-cors");
     console.log(`${guildTag}${channelTag} ${msg.author.tag}: ${msg.content}`);
   });
 
-  client.login('NzM0MzU0NzI2OTg4MjgzOTA1.XxQfIg.eeDYQv12N1cp5GMLiAgQvIaPwyo');
+  client.login('');
 </script>
 </html>
